@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.SquareUp.Retrofit2.ConverterScalars</id>
+        <version>2.1.0</version>
+        <description>Xamarin Binding Library - Retrofit2 Converter Scalars</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Retrofit2 Converter Scalars</title>
+        <releaseNotes>Retrofit2 Converter Scalars v2.1.0</releaseNotes>
+        <summary>Xamarin Binding Library - Retrofit2 Converter Scalars</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xand-retrofit2-converter-scalars</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, retrofit2, converter-scalars</tags>
+        <dependencies>
+            <dependency id="Naxam.Retrofit2.Droid" version="2.1.0" />
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.SquareUp.Retrofit2.ConverterScalars/bin/Release/Naxam.SquareUp.Retrofit2.ConverterScalars.dll" target="lib/MonoAndroid10/Naxam.SquareUp.Retrofit2.ConverterScalars.dll" />
+    </files>
+</package>
